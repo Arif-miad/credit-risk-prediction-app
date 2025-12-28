@@ -35,8 +35,8 @@ The project uses a **synthetic but realistic credit dataset** with **numerical a
 
 ## 🖼️ Demo Screenshot / GIF
 
-![App Screenshot](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshot.png)
-*The above screenshot shows the app UI and prediction output.*
+![App Screenshot](https://github.com/Arif-miad/credit-risk-prediction-app/blob/main/screenshort/credit_risk.PNG)
+
 
 ---
 
@@ -57,7 +57,7 @@ credit-risk-prediction-app/
 
 ## 🚀 Live Demo
 
-Try the app online: [Live Demo](https://credit-risk-prediction-app.streamlit.app)
+Try the app online: [Live Demo](https://creditriskpredication.streamlit.app/)
 
 ---
 
@@ -91,13 +91,13 @@ streamlit run app.py
 
 ## 📹 YouTube Video
 
-Watch the full project walkthrough: [YouTube Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Watch the full project walkthrough: [YouTube Demo](https://www.youtube.com/@ArifNeuralLab)
 
 ---
 
 ## 📈 Kaggle Notebook
 
-Check out the dataset and model training notebook: [Kaggle Notebook](https://www.kaggle.com/miadul)
+Check out the dataset and model training notebook: [Kaggle Notebook](https://www.kaggle.com/code/miadul/credit-risk-predication-96)
 
 ---
 
